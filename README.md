@@ -22,10 +22,16 @@ nano auto.sh
 sudo su
 cd /var/log
 touch auto_update.log
+```
+![image](https://github.com/SargsyanGrigor/automatic_updates_linux/assets/106109042/c1883af6-5e04-4acd-907e-eaf019109aec)
+
 
 ```
 crontab -e
 ```
+![image](https://github.com/SargsyanGrigor/automatic_updates_linux/assets/106109042/5a15b781-e860-4705-bd22-e4775be3fe58)
+
+
 make your schedule
 eg. 0 10 * * * /bin/bash /home/kali/automatic_updates_linux/auto.sh
 
