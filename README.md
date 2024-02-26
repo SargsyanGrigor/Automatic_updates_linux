@@ -18,8 +18,11 @@ nano auto.sh
 
 ![image](https://github.com/SargsyanGrigor/automatic_updates_linux/assets/106109042/6817b944-327a-4eda-9a1d-84691f5f2743)
 
+```
+sudo su
+cd /var/log
+touch auto_update.log
 
-open crontab
 ```
 crontab -e
 ```
