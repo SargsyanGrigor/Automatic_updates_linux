@@ -8,7 +8,14 @@ sudo apt install git
 git clone https://github.com/SargsyanGrigor/automatic_updates_linux.git
 cd automatic_updates_linux
 ```
-write path/to/your/log file
+# <p style="font-size: 40px; letter-spacing: 2px; color: orange;" align="center">Now I will write how I created it</p
+
+```
+mkdir automatic_updates_linux
+touch auto.sh
+nano auto.sh
+```
+
 ![image](https://github.com/SargsyanGrigor/automatic_updates_linux/assets/106109042/6817b944-327a-4eda-9a1d-84691f5f2743)
 
 
