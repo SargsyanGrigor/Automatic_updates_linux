@@ -5,7 +5,7 @@ This code will help you to update your Linux system automaticaly
 At first you need to download this code.
 ```
 sudo apt install git
-git clone
+git clone https://github.com/SargsyanGrigor/automatic_updates_linux.git
 cd automatic_updates_linux
 ```
 write path/to/your/log file
