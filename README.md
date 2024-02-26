@@ -8,7 +8,7 @@ sudo apt install git
 git clone https://github.com/SargsyanGrigor/automatic_updates_linux.git
 cd automatic_updates_linux
 ```
-# <p style="font-size: 40px; letter-spacing: 2px; color: orange;" align="center">Now I will write how I created it</p
+# <p style="font-size: 40px; letter-spacing: 2px; color: orange;" align="center">Now I will write how I created it</p>
 
 ```
 mkdir automatic_updates_linux
