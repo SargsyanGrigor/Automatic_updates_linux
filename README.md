@@ -28,11 +28,13 @@ touch auto_update.log
 ```
 crontab -e
 ```
-![image](https://github.com/SargsyanGrigor/automatic_updates_linux/assets/106109042/5a15b781-e860-4705-bd22-e4775be3fe58)
 
 
-make your schedule
-eg. 0 10 * * * /bin/bash /home/kali/automatic_updates_linux/auto.sh
+
+
+![Screenshot 2024-02-26 163950](https://github.com/SargsyanGrigor/automatic_updates_linux/assets/106109042/4d603b34-2d8a-47b3-85fd-2f5a8aedbd44)
+
+
 
 After the update result will apear in log file.
 
