@@ -23,7 +23,6 @@ sudo su
 cd /var/log
 touch auto_update.log
 ```
-![image](https://github.com/SargsyanGrigor/automatic_updates_linux/assets/106109042/c1883af6-5e04-4acd-907e-eaf019109aec)
 
 
 ```
