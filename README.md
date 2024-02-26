@@ -9,6 +9,8 @@ git clone https://github.com/SargsyanGrigor/automatic_updates_linux.git
 cd automatic_updates_linux
 ```
 write path/to/your/log file
+![image](https://github.com/SargsyanGrigor/automatic_updates_linux/assets/106109042/6817b944-327a-4eda-9a1d-84691f5f2743)
+
 
 open crontab
 ```
